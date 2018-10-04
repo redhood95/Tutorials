@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Delhi,24,72000,No
+mubai,27,48000,Yes
+new york,40,54000,No
+Madrid,28,61000,No
+berlin,40,,Yes
+hong kong,55,58000,Yes
+delhi,,52000,No
+new york,48,79000,Yes
+mubai,50,83000,No
+paris,37,67000,Yes
