@@ -1,11 +1,11 @@
 state, Age,smoker, Lpa
-haryana, 30, Yes, 14
+haryana,30, Yes,14
 delhi,35,no,12
 JnK,43,no,17
 delhi, ,yes,23
 JnK,21, ,32
 punjab,24,yes,25
-haryana, 30, Yes, 14
-delhi,37,yes,23 
+haryana,30, Yes,14
+delhi,37,yes,23
 JnK,28,no,11
 UK,19,yes,25
